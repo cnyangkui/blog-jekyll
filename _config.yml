@@ -43,6 +43,9 @@ author: Yang Kui
 # app_id: LeanCloud App id
 # app_key: LeanCloud App key
 # app_class: LeanCloud App class
+app_id: 2TBKRU8goRiTecoKfadLakiT-gzGzoHsz
+app_key: sv5Pf58RUYiiUOE95mHS5rfj
+app_class: view_count
 
 ## Paginate ##
 paginate: 7
